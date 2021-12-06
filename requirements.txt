@@ -1,4 +1,5 @@
 numpy
-matplotlib.pyplot
 seaborn
 sklearn
+matplotlib
+ipykernel
